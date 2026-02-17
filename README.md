@@ -48,7 +48,6 @@ I work across the complete product lifecycle: **planning, system design, develop
 
 ## 🧱 Core Tech Stack
 
-<<<<<<< codex/create-professional-github-profile-readme-c9zb4s
 <p align="left">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
@@ -108,12 +107,11 @@ I work across the complete product lifecycle: **planning, system design, develop
 ## 🌍 Portfolio & Professional Links
 - **Portfolio Website:** https://chandan0907.github.io
 - **GitHub:** https://github.com/chandan0907
-- **LinkedIn:** https://www.linkedin.com/in/your-linkedin-id
-- **X (Twitter):** https://twitter.com/your-twitter-id
-- **Email:** your-email@example.com
-- **Resume/CV:** https://your-resume-link.com
+- **LinkedIn:** https://www.linkedin.com/in/chandanmalakar009
+- **X (Twitter):** https://x.com/chandangaming0
+- **Email:** work.chandanmalakar@gmail.com
+- **Resume/CV:** 
 
-> ✨ Replace placeholder links (`your-linkedin-id`, `your-twitter-id`, etc.) with your real IDs.
 
 ---
 
